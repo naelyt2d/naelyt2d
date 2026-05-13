@@ -1,49 +1,48 @@
-# Olá, eu sou a naelyt2d 👋
+<div align="center">
 
-Iniciante no mundo da tecnologia 🌱 · Apaixonada por aprender  
-Explorando **Python** e descobrindo o poder do código
+# naelyt2d 💋
+
+*explorando o mundo da tecnologia* ♥
+
+![](https://img.shields.io/badge/♥-Pucca_Fan-cc0000?style=flat-square)
+![](https://img.shields.io/badge/🌱-Iniciante_em_Tech-1a0000?style=flat-square&labelColor=cc0000)
+
+</div>
+
+---
 
 ```python
->>> print("Hello, World!")
-Hello, World!
-# Cada linha de código é um novo passo 🚀
+print("Olá, mundo! Sou a naelyt2d 💋")
+# aprendendo Python com amor e determinação
+
+while curiosidade:
+    aprender(mais_um_pouco)
 ```
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## ♥ Tecnologias & Ferramentas ♥
 
----
+![Python](https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8b0000?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-cc0000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-8b0000?style=for-the-badge&logo=linux&logoColor=white)
 
-## 🙋 Sobre mim
-
-- 📚 **Foco atual:** Fundamentos de Python e lógica de programação
-- 🎯 **Objetivo:** Construir projetos reais do zero
-- 🌐 **Aprendendo sobre:** Web, automação e ciência de dados
-- ⚡ **Curiosidade:** Cada bug resolvido é uma vitória!
+</div>
 
 ---
 
-## 🗺️ Minha jornada
+## ♥ Sobre mim
 
-- ✅ Primeiros passos: variáveis, loops e funções
-- 🔵 **Agora:** Projetos simples em Python (scripts e automações)
-- ⬜ Explorar bibliotecas: Pandas, Flask ou Django
-- ⬜ Primeiro projeto no GitHub com README completo
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naelyt2d&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naelyt2d&layout=compact&theme=tokyonight&hide_border=true)
+| | |
+|---|---|
+| 📚 **Foco** | Fundamentos de Python e lógica de programação |
+| 🎯 **Objetivo** | Criar projetos reais do zero |
+| 🌐 **Explorando** | Web, automação e ciência de dados |
+| ⚡ **Curiosidade** | Bug resolvido = vitória! |
 
 ---
 
-<p align="center">Feito com ♥ e muito café · naelyt2d</p>
+## ♥ Minha Jornada
