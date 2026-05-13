@@ -1,4 +1,4 @@
-# Olá, eu sou o naelyt2d 👋
+# Olá, eu sou a naelyt2d 👋
 
 Iniciante no mundo da tecnologia 🌱 · Apaixonada por aprender  
 Explorando **Python** e descobrindo o poder do código
