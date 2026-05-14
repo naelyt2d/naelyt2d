@@ -28,6 +28,16 @@ olá, mundo! 🐍
 
 </div>
 
+<div align="center">
+  <img src="Pucca.png.png.png" width="200" alt="Pucca" />
+</div>
+
+
+
+
+
+
+
 ---
 
 ## ♥ Sobre mim
