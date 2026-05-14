@@ -1,34 +1,30 @@
 <div align="center">
 
-# naelyt2d 💋
+# naelyt2d ♥
+### ★ aprendiz do mundo tech · pythonista iniciante ★
 
-*explorando o mundo da tecnologia* ♥
-
-![](https://img.shields.io/badge/♥-Pucca_Fan-cc0000?style=flat-square)
-![](https://img.shields.io/badge/🌱-Iniciante_em_Tech-1a0000?style=flat-square&labelColor=cc0000)
+![](https://img.shields.io/badge/-%E2%99%A5%20Pucca%20Fan-%23cc0000?style=flat-square&labelColor=1a0505)
 
 </div>
 
 ---
 
 ```python
-print("Olá, mundo! Sou a naelyt2d 💋")
-# aprendendo Python com amor e determinação
-
-while curiosidade:
-    aprender(mais_um_pouco)
+>>> print("olá, mundo! 🐍")
+olá, mundo! 🐍
+# cada bug é só um desafio disfarçado ♥
 ```
 
 ---
 
 <div align="center">
 
-## ♥ Tecnologias & Ferramentas ♥
+## ♥ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8b0000?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-cc0000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8b0000?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-2d0000?style=for-the-badge&logo=visual-studio-code&logoColor=ff6666)
+![Sempre Aprendendo](https://img.shields.io/badge/✦_sempre-aprendendo-660000?style=for-the-badge)
 
 </div>
 
@@ -38,11 +34,33 @@ while curiosidade:
 
 | | |
 |---|---|
-| 📚 **Foco** | Fundamentos de Python e lógica de programação |
+| 📚 **Foco atual** | Fundamentos de Python e lógica de programação |
 | 🎯 **Objetivo** | Criar projetos reais do zero |
 | 🌐 **Explorando** | Web, automação e ciência de dados |
-| ⚡ **Curiosidade** | Bug resolvido = vitória! |
+| ⚡ **Filosofia** | Errar faz parte do código |
 
 ---
 
 ## ♥ Minha Jornada
+
+- ✅ Variáveis, loops e funções — missão cumprida
+- 🔴 **Agora:** Projetos em Python: scripts e automações
+- ⬜ Bibliotecas: Pandas, Flask ou Django
+- ⬜ Primeiro projeto no GitHub com README top
+
+---
+
+<div align="center">
+
+## ♥ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naelyt2d&show_icons=true&theme=dark&title_color=cc0000&icon_color=ff3333&text_color=ff9999&bg_color=1a0505&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naelyt2d&layout=compact&theme=dark&title_color=cc0000&text_color=ff9999&bg_color=1a0505&hide_border=true)
+
+---
+
+*feito com ♥ e muito doce · naelyt2d · ★*
+
+</div>
+
