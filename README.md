@@ -38,6 +38,11 @@ class naelyt2d:
 
 </div>
 
+<div align="center">
+  <img src="pucca.png" width="220" alt="ilustração da Pucca" />
+</div>
+
+
 ---
 
 ## ♥ Sobre mim
