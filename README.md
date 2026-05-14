@@ -19,7 +19,6 @@
 class naelyt2d:
     nome     = "naelyt2d"
     foco     = "Python 🐍"
-    nivel    = "iniciante com muito gás 🔥"
     lema     = "errar faz parte do código ♥"
 
     def missao(self):
