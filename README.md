@@ -12,7 +12,6 @@
 ```python
 >>> print("olá, mundo! 🐍")
 olá, mundo! 🐍
-# cada bug é só um desafio disfarçado ♥
 ```
 
 ---
@@ -44,16 +43,15 @@ olá, mundo! 🐍
 
 | | |
 |---|---|
-| 📚 **Foco atual** | Fundamentos de Python e lógica de programação |
-| 🎯 **Objetivo** | Criar projetos reais do zero |
-| 🌐 **Explorando** | Web, automação e ciência de dados |
-| ⚡ **Filosofia** | Errar faz parte do código! |
+| 📚 **Foco atual** | Explorando o mundo TECH |
+| 🎯 **Objetivo** | Aprender enquanto me divirto |
+
 
 ---
 
 ## ♥ Minha Jornada
 
-- ✅ Variáveis, loops e funções — missão cumprida
+- ✅ Variáveis, loops e funções — 
 - 🔴 **Agora:** Projetos em Python: scripts e automações
 - ⬜ Bibliotecas: Pandas, Flask ou Django
 - ⬜ Primeiro projeto no GitHub com README top
@@ -70,6 +68,6 @@ olá, mundo! 🐍
 
 ---
 
-*feito com ♥ e muito café · naelyt2d · ★*
+*feito com ♥ e muito doce · naelyt2d · ★*
 
 </div>
