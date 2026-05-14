@@ -1,30 +1,41 @@
 <div align="center">
 
-# naelyt2d ♥
-### ★ aprendiz do mundo tech · pythonista iniciante ★
+# ♥ naelyt2d ♥
 
-![](https://img.shields.io/badge/-%E2%99%A5%20Pucca%20Fan-%23cc0000?style=flat-square&labelColor=1a0505)
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=435&lines=aprendiz+do+mundo+tech+%F0%9F%8C%B1;pythonista+iniciante+%F0%9F%90%8D;cada+bug+%C3%A9+um+desafio+%E2%99%A5" alt="Typing SVG" />
+
+<br/>
+
+![](https://img.shields.io/badge/♥-Pucca_Fan-cc0000?style=for-the-badge&labelColor=1a0505)
+![](https://img.shields.io/badge/🐍-Python_Dev-8b0000?style=for-the-badge&labelColor=1a0505)
+![](https://img.shields.io/badge/🌱-Aprendendo-550000?style=for-the-badge&labelColor=1a0505)
 
 </div>
 
 ---
 
 ```python
->>> print("olá, mundo! 🐍")
-olá, mundo! 🐍
-# cada bug é só um desafio disfarçado ♥
+# naelyt2d.py ♥
+class naelyt2d:
+    nome     = "naelyt2d"
+    foco     = "Python 🐍"
+    nivel    = "iniciante com muito gás 🔥"
+    lema     = "errar faz parte do código ♥"
+
+    def missao(self):
+        return "aprender, criar e crescer no mundo da tecnologia! 🚀"
 ```
 
 ---
 
 <div align="center">
 
-## ♥ Tecnologias
+## ♥ Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8b0000?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-2d0000?style=for-the-badge&logo=visual-studio-code&logoColor=ff6666)
-![Sempre Aprendendo](https://img.shields.io/badge/✦_sempre-aprendendo-660000?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-550000?style=for-the-badge&logo=visual-studio-code&logoColor=ff9999)
+![Linux](https://img.shields.io/badge/Linux-2d0000?style=for-the-badge&logo=linux&logoColor=ff6666)
 
 </div>
 
@@ -32,21 +43,23 @@ olá, mundo! 🐍
 
 ## ♥ Sobre mim
 
-| | |
-|---|---|
-| 📚 **Foco atual** | Fundamentos de Python e lógica de programação |
-| 🎯 **Objetivo** | Criar projetos reais do zero |
-| 🌐 **Explorando** | Web, automação e ciência de dados |
-| ⚡ **Filosofia** | Errar faz parte do código |
+```
+📚  Foco atual  →  fundamentos de Python e lógica de programação
+🎯  Objetivo    →  construir projetos reais do zero
+🌐  Explorando  →  web, automação e ciência de dados
+⚡  Filosofia   →  errar faz parte do código!
+```
 
 ---
 
 ## ♥ Minha Jornada
 
-- ✅ Variáveis, loops e funções — missão cumprida
-- 🔴 **Agora:** Projetos em Python: scripts e automações
-- ⬜ Bibliotecas: Pandas, Flask ou Django
-- ⬜ Primeiro projeto no GitHub com README top
+```
+✅  Variáveis, loops e funções        →  missão cumprida!
+🔴  Scripts e automações em Python    →  em andamento...
+⬜  Bibliotecas: Pandas / Flask        →  em breve
+⬜  Primeiro projeto completo          →  em breve
+```
 
 ---
 
@@ -54,13 +67,14 @@ olá, mundo! 🐍
 
 ## ♥ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naelyt2d&show_icons=true&theme=dark&title_color=cc0000&icon_color=ff3333&text_color=ff9999&bg_color=1a0505&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naelyt2d&show_icons=true&title_color=cc0000&icon_color=ff3333&text_color=ff9999&bg_color=1a0505&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naelyt2d&layout=compact&theme=dark&title_color=cc0000&text_color=ff9999&bg_color=1a0505&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naelyt2d&layout=compact&title_color=cc0000&text_color=ff9999&bg_color=1a0505&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=naelyt2d&theme=dark&background=1a0505&ring=cc0000&fire=ff3333&currStreakLabel=ff9999&hide_border=true)
 
-*feito com ♥ e muito doce · naelyt2d · ★*
+<br/>
+
+*♥ feito com amor e muito doce · naelyt2d · ★*
 
 </div>
-
