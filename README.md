@@ -39,7 +39,7 @@ class naelyt2d:
 </div>
 
 <div align="center">
-  <img src="pucca.png" width="220" alt="ilustração da Pucca" />
+  <img src="Pucca.png" width="220" alt="ilustração da Pucca" />
 </div>
 
 
